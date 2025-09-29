@@ -1,9 +1,8 @@
 ## Information About Me 
 
 <!--
-**A-Lyndon/A-Lyndon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here is some information about me:
 
 - 🔭 I’m currently working on my degree in Cyber Security at Leeds Beckett University
 - 🌱 I’m currently learning Computer Programming
